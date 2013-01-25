@@ -1,9 +1,9 @@
 {
 	"name": "VideoLightBox",
-	"title": "Video jQuery Lightbox - Embed video to your website with beautiful Lightbox effect!",
+	"title": "Video jQuery Lightbox - Fancy Video LightBox!",
 	"description": "Video LightBox for jQuery is a free extension that helps you easily embed video to website, web page or blog. * Embed flv, mp4, 3gp video files * Add Youtube, Facebook, Google Video, Metacafe, Vimeo, MySpace videos * XHTML compliant * Automatic thumbnail creation * Adding caption",
-	"keywords": ["videolightbox", "lightbox2", "video", "slideshow", "gallery", "ajax", "album", "website", "zoom"],
-	"version": "2.1.0",
+	"keywords": ["overlay", "modal", "window", "popup", "videolightbox", "lightbox2", "video", "slideshow", "gallery", "ajax", "album", "website", "zoom"],
+	"version": "2.1.1",
 	"author": {
 		"name": "VideoLightBox.com",
 		"url": "http://videolightbox.com"
@@ -22,7 +22,7 @@
 	],
 	"bugs": "https://github.com/VideoLightbox/VideoLightBox/issues",
 	"homepage": "http://videolightbox.com",
-	"docs": "http://videolightbox.com",
+	"demo": "http://videolightbox.com/#demo",
 	"download": "http://videolightbox.com",
 	"dependencies": {
 		"jquery": ">=1.5"
