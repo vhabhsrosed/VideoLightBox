@@ -11,3 +11,4 @@ Video LightBox JS is a free wizard program that helps you easily embed video to 
 # Live Demos
 
 *    [Video LightBox - Android Template - Add video to your website with beautiful Lightbox effect!](http://videolightbox.com/android-template.html)
+*    [Video LightBox - iPhone Template - Add Streaming Video to Website in a few clicks!](http://videolightbox.com/iphone-template.html)
