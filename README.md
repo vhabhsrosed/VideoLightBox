@@ -17,4 +17,5 @@ Video LightBox JS is a free wizard program that helps you easily embed video to 
 *    [Video LightBox - Mac Template - Add Youtube, Facebook, Metacafe, Vimeo, MySpace videos!](http://videolightbox.com/mac-template.html)
 *    [Video LightBox - Vista Template - A lot of gorgeous gallery themes!](http://videolightbox.com/vista-template.html)
 *    [Video LightBox - Facebook Template - Just a couple of clicks to get the your video added to the Web!](http://videolightbox.com/facebook-template.html)
-*    [Video LightBox - Prime Time Template - Add video to your website with beautiful Lightbox effect!](http://videolightbox.com/prime-time-template.html)
+*    [Popup video player - Prime Time Template - Add video to your website with beautiful Lightbox effect!](http://videolightbox.com/prime-time-template.html)
+*    [HTML embed video - Catalyst Template - Compatible with portable devices with local MP4 and YouTube videos!](http://videolightbox.com/catalyst-template.html)
