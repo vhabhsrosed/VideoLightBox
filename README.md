@@ -20,3 +20,4 @@ Video LightBox JS is a free wizard program that helps you easily embed video to 
 *    [Popup video player - Prime Time Template - Add video to your website with beautiful Lightbox effect!](http://videolightbox.com/prime-time-template.html)
 *    [HTML embed video - Catalyst Template - Compatible with portable devices with local MP4 and YouTube videos!](http://videolightbox.com/catalyst-template.html)
 *    [jQuery video player - Dominion Template - Embed flv, mp4, 3gp video files!](http://videolightbox.com/dominion-template.html)
+*    [jQuery pop up - Ghost Template - Free versions for Windows and Mac!](http://videolightbox.com/ghost-template.html)
